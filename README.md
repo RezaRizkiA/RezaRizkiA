@@ -1,5 +1,16 @@
 # Hi there, I'm Reza! 
 ---
+# Hi there, I'm Reza! 👋
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RezaRizkiA&show_icons=true&theme=radical" alt="Statistik Reza" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=RezaRizkiA&theme=radical" alt="Streak GitHub" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RezaRizkiA&layout=compact&theme=radical" alt="Bahasa Populer" />
+</p>
+
+---
 
 ### 🚀 Tech Stack
 
@@ -34,10 +45,11 @@
 
 #### 💻 Programming Languages & OS
 <p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>>
+</p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RezaRizkiA&theme=radical" alt="Streak GitHub" />
