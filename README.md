@@ -1,6 +1,6 @@
 # Hi there, I'm Reza! 👋
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,py,php,ts,go,aws,azure,cloudflare,gcp,django,express,fastapi,laravel,nestjs,nextjs,nodejs,nuxtjs,tailwind,react,vue,nginx,firebase,mongodb,mysql,postgres,supabase,prisma,git,github,gitlab,docker,kubernetes,arduino,postman,ubuntu,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,css,go,js,php,py,ts,alpinejs,angular,bootstrap,django,express,fastapi,laravel,nestjs,nextjs,nodejs,nuxtjs,react,svelte,tailwind,vue,arduino,aws,azure,bun,cloudflare,discord,docker,firebase,gcp,git,github,gitlab,kubernetes,linux,linkedin,mongodb,mysql,nginx,postman,postgres,prisma,supabase,ubuntu,vite,vscode,windows)](https://skillicons.dev)
 
 ---
 
