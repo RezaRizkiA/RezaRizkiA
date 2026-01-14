@@ -1,9 +1,13 @@
 # Hi there, I'm Reza! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RezaRizkiA&show_icons=true&theme=radical" alt="Statistik Reza" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RezaRizkiA&show_icons=true&theme=radical" alt="Statistik Reza" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaRizkiA&layout=compact&theme=radical" alt="Bahasa Populer" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RezaRizkiA&layout=compact&theme=radical" alt="Bahasa Populer" />
+  <br/>
+
+  <img src="https://streak-stats.demolab.com/?user=RezaRizkiA&theme=radical" alt="Streak GitHub" />
 </p>
 
 ---
